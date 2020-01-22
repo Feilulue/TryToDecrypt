@@ -2,7 +2,7 @@
 
 **All the easy decryptions can be solved with this script**
 
-* first two can still be solved with the script used in easy
+* first two can still be solved with the [script used in easy](../easy/easy.py)
 * third one need to be reversed which is an option in the easy script as well
 
 * the rest ones will change the encoded value depends on the position of the character in the plaintext
