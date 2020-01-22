@@ -4,4 +4,4 @@
 
 * all the easy ones all simply apply different rules on each character to have a hex value
 * used api to get all the encoded value of each characters
-* match them with the encrypted text
+* match them with the encrypted text without knowing the rules
