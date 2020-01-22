@@ -1,4 +1,4 @@
-# easy decrypt
+# middle decrypt
 
 **All the easy decryptions can be solved with this script**
 
